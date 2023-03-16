@@ -1,0 +1,37 @@
+.header{
+    height:80px;
+    border-bottom: 1px solid #828282;
+}
+.header a{
+    font-size: 18px;
+    line-height:22px;
+    color:#828282;
+    text-decoration: none;
+}
+.header a:first-child{
+    color:#070707;
+    font-weight: bold;
+}
+.lang{
+    transform: rotate(-90deg);
+}
+.aboutMe{
+    background-color: #F6F6F6;
+}
+
+.skillBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.portfolio{
+    position: absolute;
+width: 936.24px;
+height: 510px;
+left: 257.71px;
+}
+.portfolioText{
+    text-align: center;
+    margin-top: 113px;
+    margin-bottom: 47px;
+}
